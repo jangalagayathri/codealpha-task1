@@ -35,4 +35,6 @@ TECHNOLOGIES USED:
 HTML.
 EXPRESS.JS
 CSS.
-
+OUTPUT:-
+![image](https://github.com/user-attachments/assets/9fa2dcaa-bc12-4586-8f1a-fdd48bf131d2)
+![image](https://github.com/user-attachments/assets/0831c9cb-9220-44e1-85d7-cc4b9448870b)
